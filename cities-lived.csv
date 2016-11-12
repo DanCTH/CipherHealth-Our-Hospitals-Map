@@ -1,5 +1,5 @@
-years,city, state, lat,lon
+years, city, state, lat, lon
 5, Beaufort, SC, 32.4316, -80.6698
 5, New York, NY, 40.71455, -74.007124
-5, Morristown, NJ 40.7968, -74.4815
+5, Morristown, NJ, 40.7968, -74.4815
 5, Richmond, VA, 37.5407, -77.4360
