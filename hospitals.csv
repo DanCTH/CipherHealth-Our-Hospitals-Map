@@ -1,5 +1,5 @@
-years, place, lat, lon, state, city, hospital_name
-1, Beaufort,32.4316,-80.6698,SC, Beaufort, Beaufort Memorial Hospital
-1, New York,40.71455,-74.007124,NY, New York, Bronx Lebanon Hospital Center
-1, Morristown,40.7968,-74.481,NJ, Morristown, Atlantic Health System
-1, Richmond,37.5407,-77.4360,VA, Richmond, Bon Secours Health System
+years,place,lat,lon,state,city,hospital_name
+1,Beaufort,32.4316,-80.6698,SC,Beaufort,Beaufort Memorial Hospital
+1,New York,40.71455,-74.007124,NY,New York,Bronx Lebanon Hospital Center
+1,Morristown,40.7968,-74.481,NJ,Morristown,Atlantic Health System
+1,Richmond,37.5407,-77.4360,VA,Richmond,Bon Secours Health System
