@@ -5,12 +5,15 @@ Alecto Healthcare,Hayward,CA,73.3,37.668821,-122.080796,"Hayward, CA","Hayward, 
 UCSD Medical Center,Sacramento,CA,71.8,38.581572,-121.4944,"Sacramento, CA","Sacramento, Sacramento County, CA, US"
 Providence Health & Services,Santa Monica,CA,77.4,34.01956,-118.486974,"Santa Monica, CA","Santa Monica, Los Angeles County, CA, US"
 UCLA Medical Center,LA,CA,67.8,34.019394,-118.410825,"LA, CA","La Ca', BO, Emilia-Romagna, IT"
-,,,18,47.552149,-118.158462,J,Chill
-,,,18,32.795276,-114.14351,J,Chill
-,,,18,35.56635,-113.738778,J,Chill
-,,,18,33.760808,-112.672314,J,Chill
+,,,18,44.509278,-72.886086,Jim,Chill
+,,,18,35.283741,-76.871544,Halpert,Chill
+,,,18,32.795276,-114.14351,Is,Chill
+,,,18,35.56635,-113.738778,A,Chill
+,,,18,42.271239,-84.975921,Pretty,Chill
+,,,18,33.760808,-112.672314,Silly,Chill
+,,,18,34.007645,-112.037622,Actor,Chill
+,,,18,47.552149,-118.158462,Jobs,Chill
 SCL - St. James Healthcare,Butte,MT,64.2,45.984322,-112.501468,"Butte, MT","Butte, Silver Bow County, MT, US"
-,,,18,34.007645,-112.037622,J,Chill
 Intermountain Healthcare,American Fork,UT,83.9,40.376895,-111.795764,"American Fork, UT","American Fork, Utah County, UT, US"
 Longmont United Hospital,Longmont,CO,63.6,40.167212,-105.101929,"Longmont, CO","Longmont, Boulder County, CO, US"
 SCL - Good Samaritan Medical Center,Lafayette,CO,60.4,39.993596,-105.089706,"Lafayette, CO","Lafayette, Boulder County, CO, US"
@@ -35,7 +38,6 @@ Carle Foundation,Urbana,IL,66.2,40.111717,-88.207301,"Urbana, IL","Urbana, Champ
 Baptist Health,Montgomery,AL,77.5,32.366966,-86.300648,"Montgomery, AL","Montgomery, Montgomery County, AL, US"
 Twin Lakes Regional Medical Center,Leitchfield,KY,69.1,37.480054,-86.293864,"Leitchfield, KY","Leitchfield, Grayson County, KY, US"
 Indiana University Health,Carmel,IN,76.6,39.978371,-86.118043,"Carmel, IN","Carmel, Hamilton County, IN, US"
-,,,18,42.271239,-84.975921,J,Chill
 Beaumont Health System,Dearborn,MI,75,42.32226,-83.176314,"Dearborn, MI","Dearborn, Wayne County, MI, US"
 Henry Ford Health System,Detroit,MI,83.1,42.348664,-83.056737,"Detroit, MI","Detroit, Wayne County, MI, US"
 Charleston Area Medical Center,Charleston,WV,76.4,38.350599,-81.633281,"Charleston, WV","Charleston, Kanawha County, WV, US"
@@ -49,7 +51,6 @@ Bethesda Health,Boynton Beach,FL,83.6,26.525349,-80.066431,"Boynton Beach, FL","
 Davis Medical Center,Elkins,WV,72,38.925882,-79.84665,"Elkins, WV","Elkins, Randolph County, WV, US"
 Edgewood Place,Burlington,NC,66,36.095692,-79.437799,"Burlington, NC","Burlington, Alamance County, NC, US"
 Kaleida Health,Buffalo,NY,67.3,42.886717,-78.878392,"Buffalo, NY","Buffalo, Erie County, NY, US"
-,,,18,35.283741,-76.871544,J,Chill
 Bon Secours Health System,Newport News,VA,66.1,37.016827,-76.45052,"Newport News, VA","Newport News City, VA, US"
 Sentara Healthcare,Elizabeth City,NC,72.9,36.295684,-76.22477,"Elizabeth City, NC","Elizabeth City, Pasquotank County, NC, US"
 Upstate University Hospital,Syracuse,NY,74.7,43.048122,-76.147424,"Syracuse, NY","Syracuse, Onondaga County, NY, US"
@@ -60,7 +61,6 @@ Atlantic Health System,Morristown,NJ,64.9,40.797021,-74.481011,"Morristown, NJ",
 HealthAlliance of the Hudson Valley,Kingston,NY,77,41.928781,-74.00237,"Kingston, NY","Kingston, New York, NY, US"
 Interfaith Medical Center,Brooklyn,NY,65.4,40.650104,-73.949582,"Brooklyn, NY","New York City, Kings County, NY, US"
 Waterbury Hospital,Waterbury,CT,90.7,41.558153,-73.051497,"Waterbury, CT","Waterbury, New Haven County, CT, US"
-,,,18,44.509278,-72.886086,J,Chill
 Middlesex Hospital,Middletown,CT,67.9,41.549566,-72.65156,"Middletown, CT","Middletown, Middlesex County, CT, US"
 Dartmouth-Hitchcock Medical Center,Lebanon,NH,72.6,43.642538,-72.251383,"Lebanon, NH","Lebanon, Grafton County, NH, US"
 Emerson Hospital,West Concord,MA,78.6,42.456686,-71.394232,"West Concord, MA","West Concord, Middlesex County, MA, US"
