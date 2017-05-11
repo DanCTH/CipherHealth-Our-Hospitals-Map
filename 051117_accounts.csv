@@ -1,0 +1,92 @@
+Account,City,State,Score,Latitude,Longitude,Name,Desc,Type
+Akron Children's Hospital,Akron,OH,64.6,41.083064,-81.518485,"Akron, OH","Akron, Summit County, OH, US",Hospital / Hospital System
+Alecto Healthcare,Hayward,CA,73.3,37.668821,-122.080796,"Hayward, CA","Hayward, Alameda County, CA, US",Hospital / Hospital System
+Atlantic Health System,Morristown,NJ,64.9,40.797021,-74.481011,"Morristown, NJ","Morristown, Morris County, NJ, US",Hospital / Hospital System
+Baptist Health,Montgomery,AL,77.5,32.366966,-86.300648,"Montgomery, AL","Montgomery, Montgomery County, AL, US",Hospital / Hospital System
+Baylor Scott & White Health,Plano,TX,72.1,33.013676,-96.69251,"Plano, TX","Plano, Collin County, TX, US",Hospital / Hospital System
+Beaufort Memorial,Beaufort,SC,64.2,32.431581,-80.669829,"Beaufort, SC","Beaufort, Beaufort County, SC, US",Hospital / Hospital System
+Beaumont Health System,Dearborn,MI,75,42.32226,-83.176314,"Dearborn, MI","Dearborn, Wayne County, MI, US",Hospital / Hospital System
+Bethesda Health,Boynton Beach,FL,83.6,26.525349,-80.066431,"Boynton Beach, FL","Boynton Beach, Palm Beach County, FL, US",Hospital / Hospital System
+Bon Secours Health System,Newport News,VA,66.1,37.016827,-76.45052,"Newport News, VA","Newport News City, VA, US",Hospital / Hospital System
+Bronx Lebanon Hospital Center,Bronx,NY,47.5,40.8501,-73.866246,"Bronx, NY","New York City, New York, NY, US",Hospital / Hospital System
+Camden Clark Medical Center,Parkersburg,WV,46.6,39.266742,-81.561513,"Parkersburg, WV","Parkersburg, Wood County, WV, US",Hospital / Hospital System
+Carle Foundation,Urbana,IL,66.2,40.111717,-88.207301,"Urbana, IL","Urbana, Champaign County, IL, US",Hospital / Hospital System
+Cedar Community,West Bend,WI,80,43.4253,-88.1834,"West Bend, WI","West Bend, WI",Skilled Nursing Facility (SNF)
+Centegra Health System,Huntley,IL,58.6,42.173086,-88.427276,"Huntley, IL","Huntley, McHenry County, IL, US",Hospital / Hospital System
+Central Illinois Endoscopy Center LLC,Peoria,IL,75,40.6936,-89.589,"Peoria, IL","Peoria, IL",Ambulatory Surgery Center (ASC) / Physician Group
+Charleston Area Medical Center,Charleston,WV,76.4,38.350599,-81.633281,"Charleston, WV","Charleston, Kanawha County, WV, US",Hospital / Hospital System
+Chase Brexton Health Care,Baltimore,MD,54.5,39.290861,-76.610807,"Baltimore, MD","Baltimore, MD, US",Government Program / Special Initiative
+CHI Home care,Fargo,ND,75,46.8772,-96.7898,"Fargo, ND","Fargo, ND",Skilled Nursing Facility (SNF)
+Chilton Medical Center,Pompton Plains,NJ,1.4,40.968154,-74.295704,"Pompton Plains, NJ","Pompton Plains, Morris County, NJ, US",Hospital / Hospital System
+Dartmouth-Hitchcock Medical Center,Lebanon,NH,72.6,43.642538,-72.251383,"Lebanon, NH","Lebanon, Grafton County, NH, US",Hospital / Hospital System
+Davis Medical Center,Elkins,WV,72,38.925882,-79.84665,"Elkins, WV","Elkins, Randolph County, WV, US",Hospital / Hospital System
+Decatur Morgan Hospital,Decatur,AL,46.2,34.542533,-86.909061,"Decatur, AL","Decatur, Morgan County, AL, US",Hospital / Hospital System
+Edgewood Place,Burlington,NC,66,36.095692,-79.437799,"Burlington, NC","Burlington, Alamance County, NC, US",Skilled Nursing Facility (SNF)
+Emerson Hospital,West Concord,MA,78.6,42.456686,-71.394232,"West Concord, MA","West Concord, Middlesex County, MA, US",Hospital / Hospital System
+Flagler Hospital,St. Augustine,FL,58.1,29.894691,-81.314517,"St. Augustine, FL","St. Augustine, St. Johns County, FL, US",Hospital / Hospital System
+Franciscan Health System,Bremerton,WA,69.2,47.566539,-122.652797,"Bremerton, WA","Bremerton, Kitsap County, WA, US",Hospital / Hospital System
+Guadalupe Regional Medical Center,Seguin,TX,60.4,29.568841,-97.964727,"Seguin, TX","Seguin, Guadalupe County, TX, US",Hospital / Hospital System
+HealthAlliance of the Hudson Valley,Kingston,NY,77,41.928781,-74.00237,"Kingston, NY","Kingston, New York, NY, US",Hospital / Hospital System
+Henry Ford Health System,Detroit,MI,83.1,42.348664,-83.056737,"Detroit, MI","Detroit, Wayne County, MI, US",Hospital / Hospital System
+Henry Ford Medical Group,Detroit,MI,69,42.348664,-83.056737,"Detroit, MI","Detroit, Wayne County, MI, US",Ambulatory Surgery Center (ASC) / Physician Group
+Hill Country Memorial,Fredericksburg,TX,59,30.275201,-98.871984,"Fredericksburg, TX","Fredericksburg, Gillespie County, TX, US",Hospital / Hospital System
+Holy Cross Hospital,Fort Lauderdale,FL,27.2,26.122308,-80.143379,"Fort Lauderdale, FL","Fort Lauderdale, Broward County, FL, US",Hospital / Hospital System
+Indiana University Health,Carmel,IN,76.6,39.978371,-86.118043,"Carmel, IN","Carmel, Hamilton County, IN, US",Hospital / Hospital System
+Interfaith Medical Center,Brooklyn,NY,65.4,40.650104,-73.949582,"Brooklyn, NY","New York City, Kings County, NY, US",Hospital / Hospital System
+Intermountain Healthcare,American Fork,UT,83.9,40.376895,-111.795764,"American Fork, UT","American Fork, Utah County, UT, US",Hospital / Hospital System
+Kaleida Health,Buffalo,NY,67.3,42.886717,-78.878392,"Buffalo, NY","Buffalo, Erie County, NY, US",Hospital / Hospital System
+Kingsbrook Jewish Medical Center,Brooklyn,NY,54.1,40.650104,-73.949582,"Brooklyn, NY","New York City, Kings County, NY, US",Hospital / Hospital System
+Lake District Hospital,Lakeview,OR,35.8,42.188772,-120.345792,"Lakeview, OR","Lakeview, Lake County, OR, US",Hospital / Hospital System
+Longmont United Hospital,Longmont,CO,63.6,40.167212,-105.101929,"Longmont, CO","Longmont, Boulder County, CO, US",Hospital / Hospital System
+Maine Coast Memorial Hospital,Ellsworth,ME,36.6,44.54341,-68.419464,"Ellsworth, ME","Ellsworth, Hancock County, ME, US",Hospital / Hospital System
+Manhattan Endoscopy Center LLC,New York,NY,75,77.1,-43.100903,"New York, NY","New York City, New York, NY, US",Ambulatory Surgery Center (ASC) / Physician Group
+Medical Center Hospital,Odessa,TX,92.5,31.845715,-102.367687,"Odessa, TX","Odessa, Ector County, TX, US",Hospital / Hospital System
+Memorial Medical Center,Las Cruces,NM,47.6,32.314035,-106.779808,"Las Cruces, NM","Las Cruces, Doí±a Ana County, NM, US",Hospital / Hospital System
+Mercy Health System,Rockford,IL,85.2,42.271395,-89.093966,"Rockford, IL","Rockford, Winnebago County, IL, US",Hospital / Hospital System
+Middlesex Hospital,Middletown,CT,67.9,41.549566,-72.65156,"Middletown, CT","Middletown, Middlesex County, CT, US",Hospital / Hospital System
+Mohawk Valley Health System,Utica,NY,77.1,43.100903,-75.232664,"Utica, NY","Utica, Oneida County, NY, US",Hospital / Hospital System
+Mount Sinai Health System,Brooklyn,NY,57.9,40.650104,-73.949582,"Brooklyn, NY","New York City, Kings County, NY, US",Hospital / Hospital System
+Mount Sinai Medical Center,Miami Beach,FL,49.4,25.788144,-80.12727,"Miami Beach, FL","Miami Beach, Miami-Dade County, FL, US",Hospital / Hospital System
+Nassau University Medical Center,East Meadow,NY,48.8,40.71399,-73.559016,"East Meadow, NY","East Meadow, New York, NY, US",Hospital / Hospital System
+New York Presbyterian Queens,Flushing,NY,27.3,40.76543,-73.817429,"Flushing, NY","New York City, Queens County, NY, US",Hospital / Hospital System
+North Shore Orthopaedic Institute,Chicago,IL,80,47.3,-41.875555,"Chicago, IL","Chicago, IL, US",Ambulatory Surgery Center (ASC) / Physician Group
+Northwest Michigan Surgery Center,Traverse City,MI,69,44.7631,-85.6206,"Traverse City, MI","Traverse City, MI",Ambulatory Surgery Center (ASC) / Physician Group
+Oneida Health,Oneida,NY,68.5,43.092165,-75.650929,"Oneida, NY","Oneida, Madison County, NY, US",Hospital / Hospital System
+OSF HealthCare,Monmouth,IL,77.1,40.914462,-90.641409,"Monmouth, IL","Monmouth, Monmouthshire, Wales, GB",Hospital / Hospital System
+OVMC-EORH,Martins Ferry,OH,32.6,40.095906,-80.724526,"Martins Ferry, OH","Martins Ferry, Belmont County, OH, US",Hospital / Hospital System
+Palmetto Health Tuomey,Sumter,SC,52.5,33.920435,-80.341469,"Sumter, SC","Sumter, Sumter County, SC, US",Hospital / Hospital System
+Peterson Regional Medical Center,Kerrville,TX,72.2,30.047433,-99.140319,"Kerrville, TX","Kerrville, Kerr County, TX, US",Hospital / Hospital System
+Providence Health & Services,Santa Monica,CA,77.4,34.01956,-118.486974,"Santa Monica, CA","Santa Monica, Los Angeles County, CA, US",Hospital / Hospital System
+Rush University Medical Center,Chicago,IL,47.3,41.875555,-87.624421,"Chicago, IL","Chicago, Cook County, IL, US",Hospital / Hospital System
+Saint Anthony Hospital,Chicago,IL,36.1,41.875555,-87.624421,"Chicago, IL","Chicago, Cook County, IL, US",Hospital / Hospital System
+Saint Francis Hospital,Tulsa,OK,73.1,36.155681,-95.992911,"Tulsa, OK","Tulsa, Tulsa County, OK, US",Hospital / Hospital System
+SCL - Good Samaritan Medical Center,Lafayette,CO,60.4,39.993596,-105.089706,"Lafayette, CO","Lafayette, Boulder County, CO, US",Hospital / Hospital System
+SCL - Lutheran Medical Center,Wheat Ridge,CO,77.8,39.766098,-105.077206,"Wheat Ridge, CO","Wheat Ridge, Jefferson County, CO, US",Hospital / Hospital System
+SCL - Saint Joseph Hospital,Denver,CO,61.3,39.739154,-104.984703,"Denver, CO","Denver, Denver County, CO, US",Hospital / Hospital System
+SCL - St. Francis Health,Topeka,KS,61.3,39.049011,-95.677556,"Topeka, KS","Topeka, Shawnee County, KS, US",Hospital / Hospital System
+SCL - St. James Healthcare,Butte,MT,64.2,45.984322,-112.501468,"Butte, MT","Butte, Silver Bow County, MT, US",Hospital / Hospital System
+SCL - St. Mary's Medical Center,Grand Junction,CO,29.5,39.063956,-108.550732,"Grand Junction, CO","Grand Junction, Mesa County, CO, US",Hospital / Hospital System
+Sentara Healthcare,Elizabeth City,NC,72.9,36.295684,-76.22477,"Elizabeth City, NC","Elizabeth City, Pasquotank County, NC, US",Hospital / Hospital System
+Shannon Ambulatory Surgery Center,San Angelo,TX,69,31.431993,-100.45458,"San Angelo, TX","San Angelo, Tom Green County, TX, US",Ambulatory Surgery Center (ASC) / Physician Group
+Shannon Medical Center,San Angelo,TX,68.6,31.431993,-100.45458,"San Angelo, TX","San Angelo, Tom Green County, TX, US",Hospital / Hospital System
+South Shore Hospital,Chicago,IL,34.5,41.875555,-87.624421,"Chicago, IL","Chicago, Cook County, IL, US",Hospital / Hospital System
+St. David's HealthCare,Austin,TX,57.5,30.271129,-97.743699,"Austin, TX","Austin, Travis County, TX, US",Hospital / Hospital System
+St. Joseph's Hospital and Health Center,Syracuse,NY,43.3,43.048122,-76.147424,"Syracuse, NY","Syracuse, Onondaga County, NY, US",Hospital / Hospital System
+St. Mary's Medical Center,Huntington,WV,43.3,38.41925,-82.445154,"Huntington, WV","Huntington, Cabell County, WV, US",Hospital / Hospital System
+Tallahassee Memorial Hospital,Tallahassee,FL,67.7,30.438083,-84.280933,"Tallahassee, FL","Tallahassee, Leon County, FL, US",Hospital / Hospital System
+Tenet Health,Hilton Head Island,SC,83,32.216316,-80.752608,"Hilton Head Island, SC","Hilton Head Island, Beaufort County, SC, US",Hospital / Hospital System
+The New Jewish Home,New York,NY,30,77.1,-43.100903,"New York, NY","New York City, New York, NY, US",Skilled Nursing Facility (SNF)
+Twin Lakes Regional Medical Center,Leitchfield,KY,69.1,37.480054,-86.293864,"Leitchfield, KY","Leitchfield, Grayson County, KY, US",Hospital / Hospital System
+UCLA Medical Center,LA,CA,67.8,34.019394,-118.410825,"LA, CA","La Ca', BO, Emilia-Romagna, IT",Hospital / Hospital System
+UCSD Medical Center,Sacramento,CA,71.8,38.581572,-121.4944,"Sacramento, CA","Sacramento, Sacramento County, CA, US",Hospital / Hospital System
+UCSF Medical Center,San Francisco,CA,85.3,37.779277,-122.41927,"San Francisco, CA","San Francisco, San Francisco City and County, CA, US",Hospital / Hospital System
+United Regional Hospital,Wichita Falls,TX,67.4,33.913709,-98.493387,"Wichita Falls, TX","Wichita Falls, Wichita County, TX, US",Hospital / Hospital System
+UnityPoint Health,Osceola,IA,68.9,41.033885,-93.765498,"Osceola, IA","Osceola, Clarke County, IA, US",Hospital / Hospital System
+University of Miami Health System,Miami,FL,64.3,25.774266,-80.193659,"Miami, FL","Miami, Miami-Dade County, FL, US",Hospital / Hospital System
+University of Missouri Health Care,Columbia,MO,76.7,38.951883,-92.333737,"Columbia, MO","Columbia, Boone County, MO, US",Hospital / Hospital System
+University of Pennsylvania Health System,Philadelphia,PA,86.1,39.952399,-75.16359,"Philadelphia, PA","Philadelphia, Philadelphia County, PA, US",Hospital / Hospital System
+Upstate University Hospital,Syracuse,NY,74.7,43.048122,-76.147424,"Syracuse, NY","Syracuse, Onondaga County, NY, US",Hospital / Hospital System
+Visiting Nurse Services in Westchester (VNSW),White Plains,NY,30,41.034,-73.7629,"White Plains, NY","White Plains, NY",Skilled Nursing Facility (SNF)
+Waterbury Hospital,Waterbury,CT,90.7,41.558153,-73.051497,"Waterbury, CT","Waterbury, New Haven County, CT, US",Hospital / Hospital System
+Wichita Falls Gastroenterology Associates (WFGIA),Wichita Falls,TX,69,33.913709,-98.493387,"Wichita Falls, TX","Wichita Falls, Wichita County, TX, US",Ambulatory Surgery Center (ASC) / Physician Group
+Wichita Falls GI Associates,Wichita Falls,TX,82.5,33.913709,-98.493387,"Wichita Falls, TX","Wichita Falls, Wichita County, TX, US",Ambulatory Surgery Center (ASC) / Physician Group
